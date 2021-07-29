@@ -1,10 +1,11 @@
-
-import './App.css';
+import "./App.css";
+import React from "react";
+import Homepage from "./homepage.component.jsx";
 
 function App() {
   return (
     <div>
-    Mariano
+      <Homepage />
     </div>
   );
 }
